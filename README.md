@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This depot application comprises many features of rails 5.1 developement.  It demonstrates abilities to create maintenance pages, link database table, handle sessions, create forms, and incorporate JavaScript.  This is the feature exercise from the book _Agile Web Development with Rails 5.1_ by Sam Ruby, David Bryant Copeland, and Dave Thomas.
